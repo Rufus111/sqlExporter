@@ -9,7 +9,7 @@ Need's go 1.5 ot higher.
 
 Just write into the queries.json file your quieries and build app.
 
-queries.json (or another file, look at config.json) must contaon a json array!
+queries.json (or another file, look at config.json) must contain a json array!
 ### queries.json example
 ```json
 [
