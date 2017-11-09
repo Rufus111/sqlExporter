@@ -1,0 +1,5 @@
+{
+  "service_port": ":8081",
+  "conStr": "server=1.1.1.1;port=6214;user id=user;password=pass;database=my_db;encrypt=disable",
+  "queries_file": "queries.json"
+}
